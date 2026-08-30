@@ -1,0 +1,6 @@
+{
+  "name": "VacTrack",
+  "description": "Never Miss a Dose. Verify Every Vaccine. Search vaccination history by vaccine name or date, and export printable medical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
